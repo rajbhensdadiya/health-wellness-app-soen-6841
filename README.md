@@ -1,4 +1,4 @@
-# Project Name: Health and Wellness App
+# Project Name: HealthNest
 
 ## Project Overview
 
